@@ -1,4 +1,5 @@
 # Elezaby E-commerce Analytics Dashboard
+   <img width="150" height="100" alt="elezaby_en" src="https://github.com/user-attachments/assets/3c1aa919-3edb-41d6-8f3d-accaea3477f9" />
 
 ## Project Overview
 This project involves a comprehensive analysis of an online pharmacy's sales data. The goal was to transform raw datasets into an interactive Power BI dashboard, providing insights into sales performance, customer behavior, and product associations to drive strategic business decisions.
