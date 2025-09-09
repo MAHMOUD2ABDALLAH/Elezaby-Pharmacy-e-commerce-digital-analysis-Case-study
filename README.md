@@ -64,6 +64,7 @@ The interactive Power BI report consists of three pages:
 3.  **Checkout Optimization:** Since most orders are 1-2 items, implement add-on suggestions at checkout to increase average basket size.
 
 ## Project Structure
+```
 Elezaby-Ecommerce-Analytics/
 │
 ├── Data/ (optional - add raw CSVs if you can)
@@ -76,7 +77,7 @@ Elezaby-Ecommerce-Analytics/
 │
 ├── Elezaby_Analytics.pbix
 └── README.md
-
+```
 # Author
 **Mahmoud Abdallah**
 ## Any Questions
