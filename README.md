@@ -1,6 +1,6 @@
 <img width="150" height="150" align="right" alt="elezaby_en" src="https://github.com/user-attachments/assets/3c1aa919-3edb-41d6-8f3d-accaea3477f9" />
 
-# Elezaby E-commerce Analytics Dashboard
+# Elezaby Pharmacy Case Study Dashboard
 
 <img width="1000" height="1000" alt="Elezaby BI" src="https://github.com/user-attachments/assets/515feb00-83d3-47d4-ab75-3d7b2b8beab9" />
 
