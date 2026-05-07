@@ -1,10 +1,8 @@
-<img width="150" height="150" align="right" alt="elezaby_en" src="https://github.com/user-attachments/assets/3c1aa919-3edb-41d6-8f3d-accaea3477f9" />
-
 # Elezaby Pharmacy Case Study Dashboard
 
-<img width="1000" height="1000" alt="Elezaby BI" src="https://github.com/user-attachments/assets/515feb00-83d3-47d4-ab75-3d7b2b8beab9" />
-
-
+<img width="1000" height="600" alt="Elezaby1" src="https://github.com/user-attachments/assets/8cf1bc68-64fe-47a4-9a4c-f0f6322273cf" />
+<img width="1000" height="600" alt="Elezaby2" src="https://github.com/user-attachments/assets/6a73ab8b-7397-4a58-970f-e4874819c908" />
+<img width="1000" height="600" alt="Elezaby3" src="https://github.com/user-attachments/assets/5807271e-bf92-4eca-a9f6-1258eb01defc" />
 
 ## Project Overview
 This project involves a comprehensive analysis of an online pharmacy's sales data. The goal was to transform raw datasets into an interactive Power BI dashboard, providing insights into sales performance, customer behavior, and product associations to drive strategic business decisions.
