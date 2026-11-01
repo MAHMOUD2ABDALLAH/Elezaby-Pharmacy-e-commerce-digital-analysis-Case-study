@@ -124,5 +124,5 @@ Elezaby-Ecommerce-Analytics/
 ## Any Questions
 **Mahmoud_Abdallah20@outlook.com**
 
-<img width="200" height="200" alt="Elezaby" src="https://github.com/user-attachments/assets/2bd6a1d4-1b45-4a15-8ac7-dad07a457eaa" />
+<img width="300" height="300" alt="ElEzaby" src="./ElEzaby.svg" />
 
